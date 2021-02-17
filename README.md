@@ -11,7 +11,7 @@ Main Functionalities of the Online Shopping System are :
 Admin can sign in to the System with his Admin ID/password.
 Admin can see the data of all the Registered Customer of the System.
 Admin can see the Order placed by all the Customers.
-Admin can see the Order placed by a Specific Customer.
+Admin can see the Order placed by a Specific Customer through his/her ID.
 
 
 # Functionalities for the User
